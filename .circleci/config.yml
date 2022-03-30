@@ -9,3 +9,4 @@ jobs:
     steps:
       - checkout
       - run: echo "Hello World"
+      - break my config
